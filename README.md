@@ -18,7 +18,6 @@
 6. [Potential Extensions](#potential-extensions)
 7. [Project Files](#project-files)
 8. [How to Run](#how-to-run)
-9. [Demo Instructions](#demo-instructions)
 
 
 ---
@@ -190,18 +189,5 @@ Use only **HTTP** (non-SSL) sites:
 
 **Note:** Disable your browser cache to see proxy caching in action.
 
----
-
-## Demo Instructions
-
-1. Run the proxy server.
-2. Access a website for the **first time**:
-
-   * Output will show **“url not found”**, indicating a cache miss.
-3. Access the same website **again**:
-
-   * Output will show **“Data retrieved from the Cache”**, demonstrating cache hit and faster response.
 
 
-
-If you want, I can also **create a “Code Walkthrough” section** explaining the main files and functions line by line. It would make the README even more thorough for evaluators. Do you want me to do that?
