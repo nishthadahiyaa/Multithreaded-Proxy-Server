@@ -4,7 +4,7 @@
 
 **Author:** Nishtha Dahiya
 **Language:** C
-**Project Type:** Systems Programming / Networking.
+**Project Type:** Systems Programming / Networking
 
 ---
 
